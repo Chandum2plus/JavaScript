@@ -21,3 +21,10 @@ if(a>b){
 }else{
     console.log(`${a} and ${b} both are equal`);
 }
+
+const score =200;
+console.log(typeof score);
+
+const balance =new Number(6000);
+console.log(balance.toFixed(2));
+
